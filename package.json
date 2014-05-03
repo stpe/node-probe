@@ -1,0 +1,9 @@
+{
+  "name": "node-probe",
+  "description": "Simple one-off probe script for making HTTP HEAD requests to a bunch of URLs",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": "0.10.x"
+  }
+}
